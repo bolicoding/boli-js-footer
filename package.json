@@ -1,0 +1,25 @@
+{
+  "name": "boli-js-footer",
+  "version": "1.0.0",
+  "description": "dynamic footer with date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolicoding/boli-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Bolivar Monjaraz <bolicoding@gmail.com> (https://www.linkedin.com/in/bolivar-monjaraz-699b3a1b8/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bolicoding/boli-js-footer/issues"
+  },
+  "homepage": "https://github.com/bolicoding/boli-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
